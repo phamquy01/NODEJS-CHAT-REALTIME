@@ -1,0 +1,34 @@
+# Ignore các file tạm thời hoặc backup
+*~
+
+# Ignore file log
+*.log
+
+# Ignore thư mục build
+/build/
+
+# Ignore file cài đặt npm
+package-lock.json
+
+# Ignore thư mục và file của IDE
+.vscode/
+.idea/
+
+# Ignore file cài đặt và thư mục của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore file cài đặt và thư mục của Node.js
+node_modules/
+
+# Ignore file cài đặt và thư mục của Java
+/target/
+*.class
+
+# Ignore file của macOS
+.DS_Store
+
+# Ignore file của Windows
+Thumbs.db
